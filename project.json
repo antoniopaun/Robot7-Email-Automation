@@ -1,7 +1,7 @@
 {
   "name": "Robot7_EmailAutomation",
   "projectId": "1e1cd241-befe-4023-840a-063d565b8e8c",
-  "description": "Learning email operations",
+  "description": "This robot's function is to use different actions on email messages: reading, saving, downloading attachments, forwarding them. It uses a Gmail mailbox that receives dummy emails on command and then it outputs the data.",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.0]",
